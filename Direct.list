@@ -7,6 +7,10 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 # DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
+#局域网IP
+IP-CIDR,192.168.3.200/32,no-resolve
+IP-CIDR,192.168.3.33/32,no-resolve
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
